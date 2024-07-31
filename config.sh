@@ -1,0 +1,1 @@
+xmake f -p wasm -m debug
